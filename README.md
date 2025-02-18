@@ -22,4 +22,8 @@ Migrated a **Virtual Machine (VM) from Oracle VB/EC2 to AWS EC2** using **AWS Ap
 - Ensured **zero manual reconfiguration**, with all settings and data mirrored seamlessly.  
 - Optimized application availability and minimized migration downtime using **AWS MGN**.  
 
-## Repository Structure  
+## Future Improvements  
+- Automate the migration process using **Terraform** or **AWS CLI scripts**.  
+- Implement **CloudWatch monitoring** to track replication and cutover performance.  
+- Explore **AWS Systems Manager** for post-migration instance management.  
+
